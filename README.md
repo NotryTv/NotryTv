@@ -1,10 +1,28 @@
-### Ola! Meu Nome is Matheus Antonio Claudino Dos Santos
-[![Blog](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)]()
-[![Blog](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
-[![Blog](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
-[![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![Blog](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
-[![Blog](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
-[![Blog](https://aleen42.github.io/badges/src/behance.svg)]()
-[![Blog](https://aleen42.github.io/badges/src/photoshop.svg)]()
+### Ola me chamo Matheus Antonio Claudino Dos Santos Mais Conhecido Como NotryTv
+- 📫 Me Contate No E-Mail: contato.notrytv@gmail.com
+- 😄 Pronomes: ele-dele.
+<div align="center">
+    <h4>Linguagens</h4>
+    <img style align="center" alt="Daniel-HTML" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Notry-CSS" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Notry-Js" height="30" width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+<br>
+<div align="center">
+    <h4>Redes sociais</h4>
+    <a href="https://www.youtube.com/@notrytv" target="_blank"><img
+            src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+            target="_blank"></a>
+    <a href="https://discord.gg/d2cesQAPAC" target="_blank"><img
+            src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+            target="_blank"></a>
+    <a href="mailto:contato.notrytv@gmail.com"><img
+            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+            target="_blank"></a>
+    <a href="https://github.com/Anant-mishra1729?tab=repositories"><img
+            src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac"
+            width="100%" /></a>
+</div>
