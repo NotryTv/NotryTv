@@ -1,28 +1,60 @@
-### Ola me chamo Matheus Antonio Claudino Dos Santos Mais Conhecido Como NotryTv
-- 📫 Me Contate No E-Mail: contato.notrytv@gmail.com
-- 😄 Pronomes: ele-dele.
-<div align="center">
-    <h4>Linguagens</h4>
-    <img style align="center" alt="Daniel-HTML" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Notry-CSS" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Notry-Js" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<!-- Header -->
+<a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Gustavo%20VS&fontAlign=40&fontAlignY=30&color=0:0575E6,100:00F260&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-light-mode-only" alt="Header" width="100%" />
+</a>
+
+<a href="https://github.com/Anant-mishra1729#gh-dark-mode-only" width="30">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Gustavo%20VS&fontAlign=40&fontAlignY=30&color=0:243694,50:264778,100:427786&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-dark-mode-only" alt="Header" width="100%" />
+</a>
+<!-- Header icons -->
+
+<!-- Introduction image -->
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="right" width="44%">
+    <img src="images/astronomy.gif" width="36%" align="right" />
+  </picture>
+  <!-- <img src = "devcard.svg" width = "38%" align = "right"/> -->
 </div>
-<br>
+
+
+<!-- Programming languages -->
+<h2>I've worked with</h2>
+<a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
+<img src="https://skillicons.dev/icons?i=lua,html,css,js,visualstudio,figma,git&theme=light&perline=8" />
+</a>
+<a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
+<img src="https://skillicons.dev/icons?i=lua,html,css,js,visualstudio,figma,git&theme=dark&perline=8" />
+</a>
+
+
+<!-- Profile summary -->
+<h2 align="left">Profile summary </h2>
 <div align="center">
-    <h4>Redes sociais</h4>
-    <a href="https://www.youtube.com/@notrytv" target="_blank"><img
-            src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-            target="_blank"></a>
-    <a href="https://discord.gg/d2cesQAPAC" target="_blank"><img
-            src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-            target="_blank"></a>
-    <a href="mailto:contato.notrytv@gmail.com"><img
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-            target="_blank"></a>
-    <a href="https://github.com/Anant-mishra1729?tab=repositories"><img
-            src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac"
-            width="100%" /></a>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true" media="(prefers-color-scheme: light)" width="47%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Anant-mishra1729&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000" width="47%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset= "https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=default" width="50%">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Anant-mishra1729&theme=algolia&hide_border=true&background=00000000" width="50%" />
+  </picture>
+</div>
+
+<hr>
+<!-- Diary -->
+<img src="images/research.gif" align="right" width="28%" />
+<h3 align="left">Behold, a glimpse into the universe from my diary ... </h3>
+
+
+>"The starlight we see each night is a window to the past <br/>a glimpse of the forgotten universe... <br>It holds within the secrets of creation, a tale etched into the very fabric of cosmos <br> frozen in time, waiting to be uncovered..." 
+
+<b>I've pinned a few projects below, hope you like them... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></b>
+  <!-- Footer -->
+<div>
+  <a href="https://github.com/Anant-mishra1729#gh-light-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00F260,100:0575E6#gh-light-mode-only" alt="Footer" width="100%" align = "left"/>
+  </a>
+  <a href="https://github.com/Anant-mishra1729#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+  </a>
 </div>
