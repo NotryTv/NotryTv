@@ -1,8 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
-<a href="https://github.com/Anant-mishra1729#gh-dark-mode-only" width="30">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey!%20I'm%20Gustavo%20VS&fontAlign=40&fontAlignY=30&color=0:243694,50:264778,100:427786&animation=twinkling&fontSize=50&fontColor=ffffff&desc=Welcome%20to%20%my%20profile!&descSize=20&descAlignY=50&descAlign=75#gh-dark-mode-only" alt="Header" width="100%" />
-</a>
 <!-- Header icons -->
 
 <!-- Introduction image -->
