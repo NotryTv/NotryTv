@@ -1,3 +1,6 @@
+### Ola! Eu me chamo Matheu Santos mais conhecido como NotryTv!
+- 📫 Me Contate No E-Mail: contato.notrytv@gmail.com
+- 😄 Pronomes: ele-dele.
 
 <!-- Programming languages -->
 <h2>Minhas linguagens de programação</h2>
