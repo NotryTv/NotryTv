@@ -1,5 +1,5 @@
 ### Olá! Eu me chamo Matheus Santos mais conhecido como NotryTv!
-- 📫 Me Contate No E-Mail: notryoficial@gmail.com
+- 📫 Me Contacte No E-Mail: notryoficial@gmail.com
 
 <!-- Programming languages -->
 <h2>Minhas linguagens de programação</h2>
